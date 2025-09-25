@@ -12,9 +12,9 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+Sorting out specific symbols in the pattern
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-
+You can use it to sort out unrelated information and find information related to the movie
 
